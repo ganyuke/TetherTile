@@ -1,0 +1,12 @@
+Tether Tile adds a Quick Settings tile that turns Bluetooth tethering on and off.
+
+Android only lets system apps switch tethering, so Tether Tile does it through Shizuku. The tile only works while Shizuku is running. Shizuku stops when the phone restarts, and you'll need to start it again from the Shizuku app.
+
+<b>Features</b>
+<ul>
+<li>Turn Bluetooth tethering on and off from Quick Settings, even on the lock screen</li>
+<li>Bluetooth is turned on first if it's off, the same as the switch in Settings</li>
+<li>See at a glance whether Bluetooth tethering is on, including when it was turned on in Settings</li>
+</ul>
+
+Requires Android 13 or later and Shizuku.
